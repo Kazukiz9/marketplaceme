@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "FTtU7RFkWjgPeAEq1HyE9Cz5TuxzhepoHxgwk76Q4Pai"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_qoGCvt2UTI5SlqVZkEVOJbh41PBNMp8wwwU",
+  "serviceFee": 3,
+  "currencyOption": "SOL",
+  "name": "MirrorApe",
+  "logo": "",
+  "network": "mainnet "
 }
